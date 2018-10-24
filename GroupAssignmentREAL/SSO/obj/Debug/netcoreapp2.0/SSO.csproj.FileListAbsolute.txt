@@ -1,0 +1,10 @@
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\bin\Debug\netcoreapp2.0\SSO.deps.json
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\bin\Debug\netcoreapp2.0\SSO.runtimeconfig.json
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\bin\Debug\netcoreapp2.0\SSO.runtimeconfig.dev.json
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\bin\Debug\netcoreapp2.0\SSO.dll
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\bin\Debug\netcoreapp2.0\SSO.pdb
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\obj\Debug\netcoreapp2.0\SSO.csproj.CoreCompileInputs.cache
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\obj\Debug\netcoreapp2.0\SSO.AssemblyInfoInputs.cache
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\obj\Debug\netcoreapp2.0\SSO.AssemblyInfo.cs
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\obj\Debug\netcoreapp2.0\SSO.dll
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\obj\Debug\netcoreapp2.0\SSO.pdb
