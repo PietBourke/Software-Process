@@ -31,3 +31,14 @@ C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\Group
 C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\obj\Debug\netcoreapp2.0\GroupAssignmentREAL.dll
 C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\obj\Debug\netcoreapp2.0\GroupAssignmentREAL.pdb
 C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\obj\Debug\netcoreapp2.0\GroupAssignmentREAL.csprojResolveAssemblyReference.cache
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\bin\Debug\netcoreapp2.0\GroupAssignmentREAL.deps.json
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\bin\Debug\netcoreapp2.0\GroupAssignmentREAL.runtimeconfig.json
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\bin\Debug\netcoreapp2.0\GroupAssignmentREAL.runtimeconfig.dev.json
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\bin\Debug\netcoreapp2.0\GroupAssignmentREAL.dll
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\bin\Debug\netcoreapp2.0\GroupAssignmentREAL.pdb
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\obj\Debug\netcoreapp2.0\GroupAssignmentREAL.csprojResolveAssemblyReference.cache
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\obj\Debug\netcoreapp2.0\GroupAssignmentREAL.csproj.CoreCompileInputs.cache
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\obj\Debug\netcoreapp2.0\GroupAssignmentREAL.AssemblyInfoInputs.cache
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\obj\Debug\netcoreapp2.0\GroupAssignmentREAL.AssemblyInfo.cs
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\obj\Debug\netcoreapp2.0\GroupAssignmentREAL.dll
+C:\Users\1714272\Downloads\Software-Process-master\GroupAssignmentREAL\GroupAssignmentREAL\obj\Debug\netcoreapp2.0\GroupAssignmentREAL.pdb
