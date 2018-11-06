@@ -8,3 +8,4 @@ C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\Group
 C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\obj\Debug\netcoreapp2.0\SSO.AssemblyInfo.cs
 C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\obj\Debug\netcoreapp2.0\SSO.dll
 C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\obj\Debug\netcoreapp2.0\SSO.pdb
+C:\Users\1718674\Downloads\Software-Process-master\Software-Process-master\GroupAssignmentREAL\SSO\obj\Debug\netcoreapp2.0\SSO.csprojResolveAssemblyReference.cache
