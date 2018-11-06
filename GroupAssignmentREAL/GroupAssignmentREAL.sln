@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupAssignmentREAL", "GroupAssignmentREAL\GroupAssignmentREAL.csproj", "{C5F099F0-B843-44C5-8AA7-8A310C808AFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSO", "SSO\SSO.csproj", "{A109037D-BA54-4453-BE81-796F9D75EF93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SSO", "SSO\SSO.csproj", "{A109037D-BA54-4453-BE81-796F9D75EF93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{C53D48F7-9F3D-496D-91CF-CCC045337F0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A109037D-BA54-4453-BE81-796F9D75EF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A109037D-BA54-4453-BE81-796F9D75EF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A109037D-BA54-4453-BE81-796F9D75EF93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53D48F7-9F3D-496D-91CF-CCC045337F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53D48F7-9F3D-496D-91CF-CCC045337F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53D48F7-9F3D-496D-91CF-CCC045337F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53D48F7-9F3D-496D-91CF-CCC045337F0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
