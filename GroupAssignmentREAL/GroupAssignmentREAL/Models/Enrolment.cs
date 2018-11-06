@@ -10,7 +10,7 @@ namespace GroupAssignmentREAL.Models
         public string CourseDescription { get; set; }
         public int EnrolmentYear { get; set; }
         public int EnrolmentSemester { get; set; }
-        public string PreRequisite { get; set; }
+        public string Prerequisite { get; set; }
 
         public Course Course { get; set; }
     }

@@ -49,8 +49,8 @@ namespace GroupAssignmentREAL.Models
 
                 entity.Property(e => e.Description).HasMaxLength(50);
 
-                entity.Property(e => e.PreRequisites)
-                    .HasColumnName("Pre_requisites")
+                entity.Property(e => e.Prerequisites)
+                    .HasColumnName("Prerequisites")
                     .HasMaxLength(50);
 
                 entity.Property(e => e.Topic).HasMaxLength(30);
@@ -69,9 +69,9 @@ namespace GroupAssignmentREAL.Models
                     .IsRequired()
                     .HasMaxLength(20);
 
-                entity.Property(e => e.PreRequisite)
+                entity.Property(e => e.Prerequisite)
                     .IsRequired()
-                    .HasColumnName("Pre-Requisite")
+                    .HasColumnName("Prerequisite")
                     .HasMaxLength(20);
 
                 entity.HasOne(d => d.Course)
